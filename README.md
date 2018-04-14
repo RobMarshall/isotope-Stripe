@@ -1,4 +1,4 @@
-### Do not use for production site this is for testing only!
+### Do not use for production site, this is for testing only!
 
 Stripe Payment Module for Isotope for Contao
 
