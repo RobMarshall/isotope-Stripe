@@ -3,22 +3,23 @@
 	"description":"Stripe payment module for Isotope Ecommerce",
 	"keywords":["contao", "isotope", "payment", "stripe"],
 	"type":"contao-module",
-	"homepage":"http://www.rsmarshall.com",
+	"homepage":"http://www.rsmarshall.co.uk",
 	"license":"CC-BY-SA-4.0",
 	"authors":[
 		{
-			"name":"RobMarshall"
+			"name":"robmarshall",
+			"homepage":"http://www.rsmarshall.co.uk"
 		}
 	],
 	"support":{
-		"issues":"https://github.com/wangaz/contao-isotope-stripe/issues",
-		"source":"https://github.com/wangaz/contao-isotope-stripe",
-		"forum":"https://community.contao.org/de/showthread.php?49734"
+		"issues":"https://github.com/RobMarshall/isotope-Stripe/issues",
+		"source":"https://github.com/RobMarshall/isotope-Stripe",
 	},
 	"require":{
-		"php": "~5.4 || ~7.0",
-		"contao/core-bundle": "^3.5.2 || ~4.1",
-		"isotope/isotope-core":"^2.4"
+		"php":">=5.3",
+		"contao/core-bundle":"^3.2 || ^4.3",
+		"contao-community-alliance/composer-plugin": "^2.4 || ^3.0",
+		"isotope/isotope-core":"^2.0"
 	},
 	"autoload": {
 		"psr-0": {
