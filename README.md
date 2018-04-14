@@ -1,8 +1,6 @@
-Stripe Payment Module for Isotope for Contao
-======================
-***
 ### Do not use for production site this is for testing only!
 
+Stripe Payment Module for Isotope for Contao
 
 This module enables you to use [Stripe](http://www.stripe.com) as a payment module for [Isotope eCommerce](https://isotopeecommerce.org) for [Contao CMS](https://contao.org).
 
